@@ -1,0 +1,10 @@
+/home/zdroid/Documents/Programming/rftg/target/debug/deps/async_global_executor-4112af5fd5517468.rmeta: /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/lib.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/config.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/executor.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/init.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/reactor.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/threading.rs
+
+/home/zdroid/Documents/Programming/rftg/target/debug/deps/async_global_executor-4112af5fd5517468.d: /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/lib.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/config.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/executor.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/init.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/reactor.rs /home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/threading.rs
+
+/home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/lib.rs:
+/home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/config.rs:
+/home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/executor.rs:
+/home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/init.rs:
+/home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/reactor.rs:
+/home/zdroid/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-global-executor-2.3.1/src/threading.rs:

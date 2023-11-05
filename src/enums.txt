@@ -1,0 +1,3 @@
+which python3
+docker
+sysinfo
