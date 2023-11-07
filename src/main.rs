@@ -51,7 +51,7 @@ async fn handle_connection(mut stream: TcpStream) {
 
     if request_line == "GET /rcat HTTP/1.1" {
         let status_line = "HTTP/1.1 200 OK";
-        let contents = fs::read("src/rcat-v3.0.0-linux-x86_64").await.unwrap();
+        let contents = fs::read("src/rcat").await.unwrap();
         let length = contents.len();
 
         let response = format!(
